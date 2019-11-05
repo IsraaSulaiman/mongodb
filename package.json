@@ -19,7 +19,7 @@
   "homepage": "https://github.com/iamshaunjp/mongodb-playlist#readme",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "mongoose": "^4.7.5"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "jasmine": "^3.4.0"
